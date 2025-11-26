@@ -9,3 +9,5 @@ The project for the course **Information Systems for Business Intelligence - CSC
 - MSc. Nguyễn Ngọc Minh Châu
 - MSc. Tiết Gia Hồng
 
+### Individual project - 21HTTT1 (Semester 1 / 2024 - 2025)
+
